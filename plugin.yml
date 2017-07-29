@@ -1,0 +1,7 @@
+main: us.atomicpvp.antiswear.index
+version: 1.0.0
+name: AtomicFilter
+
+commands:
+  about:
+    description: Setup of command.
